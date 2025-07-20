@@ -25,5 +25,4 @@ This project involves analyzing an insurance dataset to explore the relationship
    - The dataset contains 1338 rows and 7 columns with a mix of numerical and categorical data.
    - Key features include age, sex, BMI, number of children, smoking status, region, and charges.
 
-## Usage
-1. Clone the repository:
+
