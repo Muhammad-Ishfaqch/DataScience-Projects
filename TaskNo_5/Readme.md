@@ -1,4 +1,4 @@
-# Final Report: Loan Prediction Analysis using CRISP-DM Framework
+# Final Report: Loan Prediction Analysis
 
 ## 1. Business Understanding
 ### Objective
